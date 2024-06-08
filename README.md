@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujay-chandekar
-- 👀 I’m interested in coding and AI 
-- 🌱 I’m currently learning html css js
+- 👀 I’m interested in coding and python , django , frontend devlopment.
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
