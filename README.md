@@ -138,18 +138,27 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 
 ## 💼 Experience
 
-> This section needs your real work history to be accurate — job title, company, dates, and scope of work. Template below, ready to fill in:
+**Artificial Intelligence Engineer · Tata Consultancy Services**
+`Feb 2026 – Present · 6 mos · Chennai, Tamil Nadu, India · On-site`
 
-**[Job Title] · [Company Name]**
-`[Start Date] – [End Date]`
+- Working on AI-driven systems and intelligent application features
+- Implementing backend logic and scalable APIs for enterprise-level applications
 
-_[1–2 sentence professional description of the role]_
+`Next.js` `Tailwind CSS` `+3 skills`
 
-- [Scope of work bullet]
-- [Scope of work bullet]
-- [Scope of work bullet]
+**Graduate Trainee · Tata Consultancy Services**
+`Sep 2025 – Feb 2026 · 6 mos · Chennai, Tamil Nadu, India · On-site`
 
-`Skill Tag` `Skill Tag` `Skill Tag`
+`React.js`
+
+**Web & Software Development Intern · ONE IT SOLUTIONS PVT. LTD.**
+`Mar 2025 – Sep 2025 · 7 mos · Gadhinglaj, Maharashtra, India · On-site`
+
+- Working on web development, Windows desktop applications, and related backend/cloud tasks
+
+`Back-End Web Development` `Cloud Computing` `+4 skills`
+
+> Some descriptions were truncated in the source screenshot ("...more") — send the full text if you'd like the bullet points expanded.
 
 ---
 
