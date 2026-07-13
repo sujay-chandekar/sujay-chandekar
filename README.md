@@ -189,8 +189,12 @@ _[Add certification name + badge]_
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-sujaychandekar-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/sujaychandekar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sujaychandekar-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/u/sujaychandekar/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e)](https://auth.geeksforgeeks.org/user/sujaychanpz1w)
+
+| Platform | Problems Solved | Languages Used | Badges |
+|---|---|---|---|
+| [LeetCode](https://leetcode.com/u/sujaychandekar/) | 110 (C++: 97, Java: 11, MySQL: 2) | C++, Java, MySQL | 🏅 50 Days Badge 2024 |
 
 </div>
 
