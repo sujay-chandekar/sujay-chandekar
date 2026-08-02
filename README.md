@@ -68,81 +68,6 @@ I'm an **AI Engineer** with a strong backend and full-stack foundation, focused 
 | Data Processing | ⭐⭐⭐⭐ | Working with structured data pipelines and analytics-oriented workflows |
 | Backend + AI Systems | ⭐⭐⭐⭐ | Combining robust engineering practices with AI product delivery |
 
----
-
-## 📂 Featured Projects
-
-<details>
-<summary><b>🔐 Keycloak Authentication System</b></summary>
-<br/>
-
-Enterprise-grade authentication service built around Keycloak for centralized identity and access management.
-
-| Aspect | Detail |
-|---|---|
-| Stack | FastAPI, Keycloak, PostgreSQL, JWT / OAuth2 |
-| Scale | _Add scale details_ |
-| Performance | _Add performance details_ |
-| Security | Role-based access control, token-based auth |
-| Impact | _Add measured impact_ |
-| Repository | [github.com/sujay-chandekar](https://github.com/sujay-chandekar) |
-
-</details>
-
-<details>
-<summary><b>⚡ FastAPI Backend Services</b></summary>
-<br/>
-
-Modular REST API backends emphasizing clean architecture and scalable service design.
-
-| Aspect | Detail |
-|---|---|
-| Stack | FastAPI, PostgreSQL, Celery, Redis |
-| Scale | _Add scale details_ |
-| Performance | _Add performance details_ |
-| Security | JWT auth, input validation, rate limiting |
-| Impact | _Add measured impact_ |
-| Repository | [github.com/sujay-chandekar](https://github.com/sujay-chandekar) |
-
-</details>
-
-<details>
-<summary><b>🌐 MERN Stack Applications</b></summary>
-<br/>
-
-Full-stack web applications built on MongoDB, Express, React, and Node.js.
-
-| Aspect | Detail |
-|---|---|
-| Stack | MongoDB, Express.js, React, Node.js |
-| Scale | _Add scale details_ |
-| Performance | _Add performance details_ |
-| Security | JWT sessions, sanitized inputs |
-| Impact | _Add measured impact_ |
-| Repository | [github.com/sujay-chandekar](https://github.com/sujay-chandekar) |
-
-</details>
-
-<details>
-<summary><b>💬 Real-Time Chat Application</b></summary>
-<br/>
-
-Real-time messaging system built with Socket.IO for live bidirectional communication.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Node.js, Socket.IO, Express, MongoDB |
-| Scale | _Add scale details_ |
-| Performance | _Add performance details_ |
-| Security | Authenticated socket connections |
-| Impact | _Add measured impact_ |
-| Repository | [github.com/sujay-chandekar](https://github.com/sujay-chandekar) |
-
-</details>
-
-> 📝 **Note:** Fill in the Scale / Performance / Impact cells above with real numbers (e.g. request volume, latency, users served) once available — specific metrics make this section far more credible to recruiters than placeholders.
-
----
 
 ## 💼 Experience
 
@@ -152,7 +77,7 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 - Working on AI-driven systems and intelligent application features
 - Implementing backend logic and scalable APIs for enterprise-level applications
 
-`Next.js` `Tailwind CSS` `+3 skills`
+`Fast API` `Next.js` `Tailwind CSS` `+3 skills`
 
 **Graduate Trainee · Tata Consultancy Services**
 `Sep 2025 – Feb 2026 · 6 mos · Chennai, Tamil Nadu, India · On-site`
@@ -165,8 +90,6 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 - Working on web development, Windows desktop applications, and related backend/cloud tasks
 
 `Back-End Web Development` `Cloud Computing` `+4 skills`
-
-> Some descriptions were truncated in the source screenshot ("...more") — send the full text if you'd like the bullet points expanded.
 
 ---
 
@@ -184,7 +107,6 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 
 </div>
 
-> These highlights are now framed to reflect both technical depth and professional growth.
 
 ---
 
@@ -204,8 +126,6 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 | [LeetCode](https://leetcode.com/u/sujaychandekar/) | 110 (C++: 97, Java: 11, MySQL: 2) | C++, Java, MySQL | 🏅 50 Days Badge 2024 |
 
 </div>
-
-> Add HackerRank / CodeChef badges here once you share those handles.
 
 ---
 
@@ -251,8 +171,6 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 <img src="https://raw.githubusercontent.com/sujay-chandekar/sujay-chandekar/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake"/>
 
 </div>
-
-> This section is now powered by a GitHub Actions workflow that generates the snake animation automatically. To keep it updated, make sure the workflow in [.github/workflows/snake.yml](.github/workflows/snake.yml) has run successfully once.
 
 ---
 
