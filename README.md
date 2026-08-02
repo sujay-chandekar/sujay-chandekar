@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sujay%20Chandekar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sujay%20Chandekar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Full+Stack+Engineer;FastAPI+%E2%80%A2+MERN+%E2%80%A2+AI+Integrations;Building+Scalable+Systems%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Backend+Developer;FastAPI+%E2%80%A2+MERN+%E2%80%A2+LLM+Systems;Building+Scalable+AI+Products%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=LLM+Apps+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Agentic+Workflows;Python+%E2%80%A2+FastAPI+%E2%80%A2+Cloud+Native+Systems" alt="Secondary typing SVG" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujay-chandekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github&hide=contribs" width="48%" alt="GitHub stats" />
 
 <br/>
 
@@ -22,19 +26,22 @@
 
 ## 🚀 About Me
 
-I'm a **Backend & Full Stack Developer** focused on building scalable REST APIs, secure authentication systems, and AI-powered applications. My engineering approach centers on clean architecture, efficient backend design, and continuous learning — with a growing focus on **AI agents, RAG pipelines, and LLM-powered systems** layered on top of solid full-stack fundamentals.
+I'm an **AI Engineer** with a strong backend and full-stack foundation, focused on building scalable APIs, secure authentication systems, and AI-powered applications. I enjoy working at the intersection of software engineering and intelligent systems, building reliable backend infrastructure while integrating modern LLM-based capabilities such as **RAG pipelines, agentic workflows, and production AI services**.
 
-- 🔭 Currently building **Enterprise Backend Systems, FastAPI APIs, Keycloak Authentication, and AI Integrations**
-- 🌱 Currently deepening skills in **Docker, Redis, Celery, System Design, Microservices, AI Agents, RAG, LLMs, Vector Databases, AWS & CI/CD**
-- 💬 Ask me about **FastAPI, Python, React, Node.js, Express.js, MongoDB, PostgreSQL, JWT, OAuth2, Keycloak, Socket.IO, Java, DSA & System Design**
+- 🔭 Currently building **enterprise backend systems, FastAPI services, authentication platforms, and AI integrations**
+- 🌱 Deepening skills in **Docker, Redis, Celery, System Design, Microservices, AI Agents, RAG, LLMs, Vector Databases, AWS, and CI/CD**
+- 💬 Ask me about **FastAPI, Python, React, Node.js, Express.js, MongoDB, PostgreSQL, JWT, OAuth2, Keycloak, Socket.IO, Java, DSA, and System Design**
 - 📫 Reach me at **sujaychandekar7218@gmail.com**
+- 🌐 Open to **backend engineering, full-stack engineering, AI integrations, and LLM-based product development** opportunities
 
 ### 🎯 Open To
-`Backend Engineering Roles` `Full Stack Roles` `AI/ML Integration Work` `Open Source Collaboration` `Freelance FastAPI / MERN Projects`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=700&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+Engineering+Roles;Full+Stack+Roles;AI%2FML+Integration+Work;Open+Source+Collaboration;Freelance+FastAPI+%2F+MERN+Projects" alt="Open to roles" />
 
 ---
 
 ## 🛠️ Tech Stack
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=Languages%2C+Frameworks%2C+Cloud%2C+Tools" alt="Tech stack intro" />
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
@@ -54,11 +61,12 @@ I'm a **Backend & Full Stack Developer** focused on building scalable REST APIs,
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| AI/ML Integrations | ⭐⭐⭐⭐ | OpenAI API integration into production backend services |
-| Agentic Workflows | ⭐⭐⭐ | Exploring AI agent design and orchestration patterns |
-| RAG Pipelines | ⭐⭐⭐ | Learning retrieval-augmented generation architectures |
-| Vector Databases | ⭐⭐ | Studying vector search for LLM-grounded applications |
-| Data Processing | ⭐⭐⭐⭐ | Pandas-based data handling for ML-adjacent workflows |
+| AI/ML Integrations | ⭐⭐⭐⭐ | Integrating LLMs and APIs into production backend services |
+| Agentic Workflows | ⭐⭐⭐ | Designing workflow-driven AI systems and orchestration patterns |
+| RAG Pipelines | ⭐⭐⭐ | Building retrieval-augmented generation architectures for contextual AI apps |
+| Vector Databases | ⭐⭐ | Exploring embeddings and vector search for semantic retrieval |
+| Data Processing | ⭐⭐⭐⭐ | Working with structured data pipelines and analytics-oriented workflows |
+| Backend + AI Systems | ⭐⭐⭐⭐ | Combining robust engineering practices with AI product delivery |
 
 ---
 
@@ -166,31 +174,21 @@ Real-time messaging system built with Socket.IO for live bidirectional communica
 
 <div align="center">
 
-| Recognition | Details |
+| Achievement | Details |
 |---|---|
-| _Add achievement_ | _Add details_ |
+| Competitive Programming | Solved 110+ problems on LeetCode across C++, Java, and MySQL |
+| Recognition | Earned the LeetCode 50 Days Badge 2024 |
+| Software Building | Built backend and full-stack applications using FastAPI, Node.js, React, and databases like MongoDB and PostgreSQL |
+| AI Growth | Actively expanding expertise in LLMs, RAG pipelines, agentic workflows, and AI integrations |
+| Professional Progress | Working as an AI Engineer and building intelligent, scalable solutions in a professional environment |
 
 </div>
 
-> Add real recognitions here — hackathon wins, open source merges, LeetCode milestones, published articles, etc.
+> These highlights are now framed to reflect both technical depth and professional growth.
 
 ---
 
 ## 📜 Certifications
-
-> Add badges only for certifications you actually hold — grouped by provider below.
-
-**AWS**
-_[Add certification name + badge]_
-
-**Oracle**
-_[Add certification name + badge]_
-
-**NPTEL**
-_[Add certification name + badge]_
-
-**Cisco**
-_[Add certification name + badge]_
 
 ---
 
@@ -214,6 +212,8 @@ _[Add certification name + badge]_
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=500&lines=Tracking+growth%2C+consistency%2C+and+impact" alt="Analytics intro" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=sujay-chandekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay-chandekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
@@ -248,11 +248,11 @@ _[Add certification name + badge]_
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sujay-chandekar/sujay-chandekar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/sujay-chandekar/sujay-chandekar/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake"/>
 
 </div>
 
-> Requires the [Platane/snk](https://github.com/Platane/snk) GitHub Action set up on your profile repo to generate this file.
+> This section is now powered by a GitHub Actions workflow that generates the snake animation automatically. To keep it updated, make sure the workflow in [.github/workflows/snake.yml](.github/workflows/snake.yml) has run successfully once.
 
 ---
 
@@ -285,6 +285,8 @@ open_to:
 ---
 
 ## 🌐 Connect
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=6D28D9&center=true&vCenter=true&width=500&lines=Let%27s+build+something+amazing+together" alt="Connect intro" />
 
 <div align="center">
 
