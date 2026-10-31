@@ -11,7 +11,7 @@
 <br/>
 
 [![Location](https://img.shields.io/badge/📍_Location-India-6D28D9?style=for-the-badge&labelColor=1a1a2e)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://sujaychandekar.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/sujay-chandekar)
 [![Gmail](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:sujaychandekar7218@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/sujay-chandekar)
